@@ -1,0 +1,35 @@
+_repo: Modern-Industrialism-and-the-Negroes-of-the-United-StatesThe-American-Negro-Academy-Occasiona__31330
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grimké, Archibald Henry
+    aliases:
+    - Grimké, Archibald H.
+    - Grimke, Archibald Henry
+    birthdate: 1849
+    deathdate: 1930
+    gutenberg_agent_id: '5574'
+    url: http://www.gutenberg.org/2009/agents/5574
+    wikipedia: http://en.wikipedia.org/wiki/Archibald_Grimke
+description: ''
+gutenberg_issued: '2010-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31330'
+  lccn: 09035097
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Employment'
+- !lcc 'E151'
+- !lcsh 'Working class -- United States'
+- !lcsh 'African Americans -- Economic conditions'
+title: 'Modern Industrialism and the Negroes of the United States
+
+  The American Negro Academy, Occasional Papers No. 12'
+url: http://www.gutenberg.org/ebooks/31330
